@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2510421</id>
+      <size>24</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-05-27 15:06:01.298902+00:00</created>
+      <updated>2025-05-27 17:48:54.340035+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>23</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2512708</id>
+          <start>0</start>
+          <stop>23</stop>
+          <url>https://app.cvat.ai/api/jobs/2510421</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>surendran8</username>
+        <email>surendransiyer3924@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Cars</name>
+          <color>#3517e2</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Autos</name>
+          <color>#27c169</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Two-wheelers</name>
+          <color>#e81ab0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pedestrians</name>
+          <color>#fafa37</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Living</name>
+          <color>#f59331</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Traffic signs and signals</name>
+          <color>#45a8a7</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tempos</name>
+          <color>#ff84de</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-05-27 17:53:15.414532+00:00</dumped>
+  </meta>
+  <image id="0" name="00 (1).png" width="714" height="767">
+    <box label="Cars" source="manual" occluded="0" xtl="260.01" ytl="517.57" xbr="629.31" ybr="765.40" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="664.03" ytl="585.43" xbr="692.43" ybr="612.26" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="187.41" ytl="558.60" xbr="261.59" ybr="765.90" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="00 (10).png" width="732" height="768">
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="543.26" ytl="499.68" xbr="562.53" ybr="519.74" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="336.79" ytl="569.72" xbr="354.18" ybr="618.71" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="389.78" ytl="568.98" xbr="400.92" ybr="597.16" z_order="0">
+    </box>
+    <polyline label="Cars" source="manual" occluded="0" points="420.58,535.55;402.56,585.69;400.26,628.95;400.59,652.88;401.25,679.75;401.25,694.17;412.72,697.12;417.63,687.62;418.29,670.25;429.76,667.62;448.77,666.31;458.60,665.66;456.30,637.47;474.66,622.40;480.56,614.20;478.92,606.01;472.04,607.65;457.62,606.67;449.75,609.29;447.46,603.39;448.44,598.80;453.36,598.47;456.30,576.84;457.94,557.84;463.51,547.35;471.38,536.86;481.21,530.31;420.91,535.22;420.91,536.86" z_order="0">
+    </polyline>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="449.00" ytl="483.75" xbr="601.50" ybr="759.20" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="0.00" ytl="448.04" xbr="204.05" ybr="768.00" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="00 (11).png" width="740" height="767">
+    <box label="Cars" source="manual" occluded="0" xtl="323.57" ytl="493.55" xbr="483.60" ybr="657.95" z_order="0">
+    </box>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="589.65" ytl="430.04" xbr="617.98" ybr="458.88" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="441.90" ytl="459.58" xbr="573.50" ybr="730.30" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="245.20" ytl="531.07" xbr="289.11" ybr="610.17" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="00 (12).png" width="682" height="698">
+    <polyline label="Cars" source="manual" occluded="0" points="466.60,436.61;493.62,440.77;536.56,468.47;551.10,488.56;574.65,505.88;573.96,573.75;547.64,576.52;534.48,561.29;497.77,561.98;468.68,564.75;489.46,548.13;483.92,507.95;465.91,438.00" z_order="0">
+    </polyline>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="224.47" ytl="426.44" xbr="279.54" ybr="572.61" z_order="0">
+    </box>
+    <box label="Tempos" source="manual" occluded="0" xtl="283.00" ytl="353.50" xbr="488.80" ybr="595.20" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="00 (13).png" width="759" height="767">
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="525.07" ytl="477.33" xbr="540.47" ybr="513.26" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="454.44" ytl="484.41" xbr="495.51" ybr="519.28" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="479.93" ytl="482.64" xbr="509.31" ybr="513.61" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="623.97" ytl="476.54" xbr="653.30" ybr="504.10" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="203.41" ytl="469.36" xbr="271.62" ybr="581.61" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="542.92" ytl="429.02" xbr="632.77" ybr="610.04" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="515.68" ytl="481.40" xbr="527.90" ybr="512.37" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="00 (14).png" width="1272" height="652">
+    <box label="Pedestrians" source="manual" occluded="0" xtl="317.91" ytl="508.90" xbr="330.69" ybr="547.04" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="342.25" ytl="509.98" xbr="352.03" ybr="538.27" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="350.98" ytl="512.08" xbr="359.56" ybr="536.91" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="372.64" ytl="496.03" xbr="412.36" ybr="572.05" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="198.20" ytl="515.19" xbr="283.20" ybr="581.50" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="257.46" ytl="508.04" xbr="304.48" ybr="560.04" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="301.88" ytl="513.67" xbr="315.96" ybr="547.04" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="315.31" ytl="510.64" xbr="322.80" ybr="541.90" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="329.30" ytl="510.28" xbr="337.14" ybr="523.10" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="361.35" ytl="507.19" xbr="373.70" ybr="537.10" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="432.91" ytl="509.04" xbr="459.17" ybr="532.96" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="447.21" ytl="506.18" xbr="463.80" ybr="526.20" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="420.17" ytl="509.30" xbr="433.43" ybr="523.34" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="570.43" ytl="472.52" xbr="670.71" ybr="557.16" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="686.34" ytl="468.75" xbr="912.78" ybr="613.24" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="00 (15).png" width="525" height="655">
+    <box label="Cars" source="manual" occluded="0" xtl="208.20" ytl="429.40" xbr="523.38" ybr="640.00" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="00 (16).png" width="793" height="767">
+    <box label="Cars" source="manual" occluded="0" xtl="131.96" ytl="531.35" xbr="484.50" ybr="751.50" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="488.15" ytl="517.65" xbr="792.28" ybr="749.63" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="57.07" ytl="578.84" xbr="110.04" ybr="674.74" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="00 (17).png" width="689" height="768">
+    <box label="Cars" source="manual" occluded="0" xtl="35.13" ytl="537.52" xbr="305.10" ybr="768.00" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="440.10" ytl="526.54" xbr="689.00" ybr="766.90" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="00 (22).png" width="793" height="767">
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="161.14" ytl="384.27" xbr="259.45" ybr="439.45" z_order="0">
+    </box>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="36.83" ytl="443.25" xbr="90.11" ybr="480.04" z_order="0">
+    </box>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="168.12" ytl="440.72" xbr="232.81" ybr="466.09" z_order="0">
+    </box>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="376.78" ytl="525.07" xbr="417.38" ybr="570.10" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="0.00" ytl="547.45" xbr="53.32" ybr="705.13" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="175.76" ytl="576.08" xbr="207.03" ybr="616.16" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="56.40" ytl="576.96" xbr="98.69" ybr="628.94" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="95.16" ytl="584.89" xbr="162.55" ybr="636.86" z_order="0">
+    </box>
+    <box label="Autos" source="manual" occluded="0" xtl="143.13" ytl="574.32" xbr="177.97" ybr="631.14" z_order="0">
+    </box>
+    <box label="Autos" source="manual" occluded="0" xtl="394.90" ytl="550.95" xbr="500.80" ybr="667.01" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="256.03" ytl="570.61" xbr="389.85" ybr="647.98" z_order="0">
+    </box>
+    <box label="Living" source="manual" occluded="0" xtl="141.86" ytl="596.00" xbr="292.18" ybr="683.50" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="526.10" ytl="522.20" xbr="793.00" ybr="723.82" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="00 (23).png" width="796" height="767">
+    <box label="Cars" source="manual" occluded="0" xtl="665.17" ytl="585.31" xbr="732.16" ybr="637.31" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="626.94" ytl="578.89" xbr="670.99" ybr="627.83" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="611.34" ytl="585.62" xbr="626.02" ybr="610.09" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="554.80" ytl="550.61" xbr="623.80" ybr="707.70" z_order="0">
+    </box>
+    <box label="Two-wheelers" source="manual" occluded="0" xtl="750.08" ytl="576.11" xbr="780.06" ybr="618.01" z_order="0">
+    </box>
+    <box label="Living" source="manual" occluded="0" xtl="719.20" ytl="614.95" xbr="796.00" ybr="681.94" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="75.06" ytl="554.27" xbr="181.92" ybr="760.68" z_order="0">
+    </box>
+    <box label="Pedestrians" source="manual" occluded="0" xtl="210.23" ytl="578.93" xbr="269.60" ybr="735.11" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="260.40" ytl="513.99" xbr="539.72" ybr="749.93" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="475.03" ytl="555.09" xbr="563.31" ybr="685.24" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="0.00" ytl="573.36" xbr="98.29" ybr="751.45" z_order="0">
+    </box>
+    <box label="Cars" source="manual" occluded="0" xtl="5.44" ytl="548.24" xbr="221.59" ybr="729.38" z_order="0">
+    </box>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="607.32" ytl="436.87" xbr="662.55" ybr="485.53" z_order="0">
+    </box>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="730.94" ytl="377.69" xbr="796.00" ybr="438.19" z_order="0">
+    </box>
+    <box label="Traffic signs and signals" source="manual" occluded="0" xtl="740.15" ytl="438.19" xbr="796.00" ybr="461.86" z_order="0">
+    </box>
+  </image>
+</annotations>
